@@ -11,7 +11,7 @@ public class MainActivity extends AppCompatActivity {
 
 
     private WordWrapView wordWrapView;
-    String[] word = {"大叔大婶", "的点点滴滴多多多多", "打赏", "大叔大", "打扫的", "大大大啊", "sas撒飒飒", "打撒所多所所多", "打死打死打死打死", "4545sd5s45s4d5sd", "qqqqqq", "啊飒飒"};
+    String[] word = {"大叔大婶啊", "的点点滴滴多多多多", "打赏", "大叔大", "打扫的", "大大大啊", "sas撒飒飒", "打撒所多所所多", "打死打死打死打死", "4545sd5s45s4d5sd", "qqqqqq", "啊飒飒"};
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
